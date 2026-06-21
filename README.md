@@ -109,10 +109,4 @@ iot-air-quality-forecasting/
 └── README.md
 ```
 
-## Demo video checklist
-1. State the dataset's industrial context and the target (next-hour CO).
-2. Show the `-200` sentinel audit and the cleaning steps running.
-3. Walk through the engineered features (lags, rolling, calendar).
-4. Show the chronological split and why shuffling is forbidden.
-5. Train both models; show the metrics table and the comparison plot.
-6. Briefly discuss why XGBoost wins and how overfitting was controlled.
+
